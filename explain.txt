@@ -1,0 +1,2 @@
+첫번째 커밋에서 브랜치를 딴 후 마스터의 세번째 커밋에서 발생한 patch만을 새로 만든 feature 브랜치에 cherry-picking하고 
+이를 다시 revert함으로써 patching에 대한 시연을 하는 레포지토리입니다. 
